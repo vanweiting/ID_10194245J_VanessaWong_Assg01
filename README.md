@@ -18,3 +18,7 @@ Spotify song-code images - allows viewers to find the songs on spotify, by scann
 
 # Technologies Used
 * [Dreamweaver](https://www.adobe.com/sea/products/dreamweaver.html?sdid=YXPZG54P&mv=search&ef_id=EAIaIQobChMIp-ihtNGd7QIVyn8rCh2hTgUcEAAYASAAEgIvY_D_BwE:G:s&s_kwcid=AL!3085!3!473940075243!e!!g!!dreamweaver&gclid=EAIaIQobChMIp-ihtNGd7QIVyn8rCh2hTgUcEAAYASAAEgIvY_D_BwE)
+  * The project uses DreamWeaver to code the website on html and css.
+  
+# Testing
+
