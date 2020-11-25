@@ -17,6 +17,4 @@ Audios - allows viewers to listen to the band's songs, by clicking the play butt
 Spotify song-code images - allows viewers to find the songs on spotify, by scanning the code with their spotify app.
 
 # Technologies Used
-* Dreamweaver
-* http://github.com - automatic!
-[GitHub](http://github.com)
+* [Dreamweaver](https://www.adobe.com/sea/products/dreamweaver.html?sdid=YXPZG54P&mv=search&ef_id=EAIaIQobChMIp-ihtNGd7QIVyn8rCh2hTgUcEAAYASAAEgIvY_D_BwE:G:s&s_kwcid=AL!3085!3!473940075243!e!!g!!dreamweaver&gclid=EAIaIQobChMIp-ihtNGd7QIVyn8rCh2hTgUcEAAYASAAEgIvY_D_BwE)
