@@ -1,2 +1,22 @@
 # Given(ギヴン) website
-hello
+In my Interactive Development Assignment 1, I have decided to design and develop a website for a fictional band. The band is called "Given". It is an amateur rock band from an anime called "Given(ギヴン)". This anime is about a boy, Uenoyama, who is getting tired of playing music, and another boy, Mafuyu, who has just lost his partner and wants to learn music as it was his partner's interest. One day, they meet coincidentally and Mafuyu asks Uenoyama to teach him how to play the guitar. Uenoyama then lets Mafuyu join the band he is already in, with Haruki and Akihiko. Uenoyama and Mafuyu then start relying on each other becoming closer. This anime is about music and romance.
+
+I chose to create a website for the band because I want others to know about this anime. I hope that many people, whether they are interested in anime or not, will give this anime a chance and watch it. This anime definitely shows the characters character development and all the songs from this anime are the best.
+
+# Design Process
+I wanted to create and aesthetic website that does not have too many colours or patterns everywhere. My target audience are people who are interested in music, and/or anime, and/or boys love(bl).
+* As someone who loves music and listens to many different genres of them, I want to include the songs from Given into my website for viewers to listen to, so that they will know that songs from anime are as good as song from the English pop genre or any other genres.
+* As someone who loves watching anime and reading manga, I wanted to promote this anime, as it was a very touching anime and you could see the character development, so that viewers will maybe give this anime a chance and watch it and it might show them that anime are not cartoons for kids, most anime do cover serious issues like suicide and also teach us to love ourselves more.
+* As someone who likes watching and reading bl, I wanted to show them that Given is not only about music, but romance between 2 boys and how they picked each other back up, so that viewers would be interested in bl too.
+I looked at other bands', Maroon 5 and One Republic, websites, for inspiration, to see what bands' websites generally look like. For example, what tabs they have in their website and their photos and videos.
+
+# Features
+A subscribe button - allows viewers to be updated on future news about the band, by typing and submitting their email
+A video - allows viewers to check out the band's performance, by clicking on the video
+Audios - allows viewers to listen to the band's songs, by clicking the play button
+Spotify song-code images - allows viewers to find the songs on spotify, by scanning the code with their spotify app.
+
+# Technologies Used
+* Dreamweaver
+* http://github.com - automatic!
+[GitHub](http://github.com)
