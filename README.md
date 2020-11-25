@@ -45,4 +45,4 @@ Spotify song-code images - allows viewers to find the songs on spotify, by scann
 * The picture used in the website for "Songs" page is from 
   * https://littlegirlyblogger.wordpress.com/2019/10/02/anime-review-given/amp/
 * Acknowledgements 
-  * I received inspiration for this project from [Maroon 5 website](https://www.maroon5.com/home) and [One Republic website](https://onerepublic.com/)
+  * I received inspiration for this project from [Maroon 5's website](https://www.maroon5.com/home) and [One Republic's website](https://onerepublic.com/)
