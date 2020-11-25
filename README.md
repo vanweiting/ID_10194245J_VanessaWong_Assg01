@@ -20,5 +20,29 @@ Spotify song-code images - allows viewers to find the songs on spotify, by scann
 * [Dreamweaver](https://www.adobe.com/sea/products/dreamweaver.html?sdid=YXPZG54P&mv=search&ef_id=EAIaIQobChMIp-ihtNGd7QIVyn8rCh2hTgUcEAAYASAAEgIvY_D_BwE:G:s&s_kwcid=AL!3085!3!473940075243!e!!g!!dreamweaver&gclid=EAIaIQobChMIp-ihtNGd7QIVyn8rCh2hTgUcEAAYASAAEgIvY_D_BwE)
   * The project uses DreamWeaver to code the website on html and css.
   
-# Testing
-
+# Credits
+## Content
+* The information for "The Members" from the website was referenced from [Wikipedia Given (manga)](https://en.wikipedia.org/wiki/Given_(manga))
+## Media
+* The picture used in the website for "Home" page is from 
+  * https://static.zerochan.net/Given.full.2623341.jpg
+* The pictures used in the website for "About" page is from 
+  * https://static.zerochan.net/Given.full.2594618.jpg
+  * https://www.amazon.com/dp/197471182X/ref=cm_sw_r_cp_api_fabc_kLKVFb9FVEV74
+  * https://images.app.goo.gl/dkAhFVVsK3JtvMNz8
+  * https://www.amazon.com/dp/1974711846/ref=cm_sw_r_cp_api_fabc_zNKVFbXBR27BD
+  * https://www.amazon.com/dp/1974711854/ref=cm_sw_r_cp_api_fabc_fNKVFbHVHTCX9
+* The picture used in the website for "Members" page is from 
+  * https://static.zerochan.net/Given.full.2594617.jpg
+  * https://givenplus.tumblr.com/image/189769600760
+  * https://givenplus.tumblr.com/image/189769610625
+  * https://givenplus.tumblr.com/image/189769617010
+  * https://givenplus.tumblr.com/image/189769624005
+  * https://static.zerochan.net/Satou.Mafuyu.full.2819687.jpg
+  * https://static.zerochan.net/Uenoyama.Ritsuka.full.2819689.jpg
+  * https://static.zerochan.net/Nakayama.Haruki.full.2819694.jpg
+  * https://static.zerochan.net/Kaji.Akihiko.full.2819692.jpg
+* The picture used in the website for "Songs" page is from 
+  * https://littlegirlyblogger.wordpress.com/2019/10/02/anime-review-given/amp/
+* Acknowledgements 
+  * I received inspiration for this project from [Maroon 5 website](https://www.maroon5.com/home) and [One Republic website](https://onerepublic.com/)
