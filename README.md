@@ -23,6 +23,7 @@ I looked at other bands', Maroon 5 and One Republic, websites, for inspiration, 
 # Credits
 ## Content
 * The information for "The Members" from the website was referenced from [Wikipedia Given (manga)](https://en.wikipedia.org/wiki/Given_(manga))
+* The links to the websites for "Instagram", "Twitter", "Facebook", and "Google" are not my accounts or made by me. They fan accounts made by other people, except for the Twitter account, it is the official account for the "Given" anime.
 ## Media
 * The picture used in the website for "Home" page is from 
   * https://static.zerochan.net/Given.full.2623341.jpg
@@ -58,4 +59,3 @@ I looked at other bands', Maroon 5 and One Republic, websites, for inspiration, 
   * https://youtu.be/q-yCRWGd89M
 ## Acknowledgements 
   * I received inspiration for this project from [Maroon 5's website](https://www.maroon5.com/home) and [One Republic's website](https://onerepublic.com/)
-  * The links to the websites of "Instagram", "Twitter", "Facebook", and "Google" are not my accounts or made by me, but fan accounts, except for the Twitter account, it is the actual account for the "Given" anime.
