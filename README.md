@@ -18,7 +18,7 @@ Spotify song-code images - allows viewers to find the songs on spotify, by scann
 
 # Technologies Used
 * [Dreamweaver](https://www.adobe.com/sea/products/dreamweaver.html?sdid=YXPZG54P&mv=search&ef_id=EAIaIQobChMIp-ihtNGd7QIVyn8rCh2hTgUcEAAYASAAEgIvY_D_BwE:G:s&s_kwcid=AL!3085!3!473940075243!e!!g!!dreamweaver&gclid=EAIaIQobChMIp-ihtNGd7QIVyn8rCh2hTgUcEAAYASAAEgIvY_D_BwE)
-  * The project uses DreamWeaver to code the website on html and css.
+  * The project uses DreamWeaver to code the website using html and css.
   
 # Credits
 ## Content
@@ -26,13 +26,13 @@ Spotify song-code images - allows viewers to find the songs on spotify, by scann
 ## Media
 * The picture used in the website for "Home" page is from 
   * https://static.zerochan.net/Given.full.2623341.jpg
-* The pictures used in the website for "About" page is from 
+* The pictures used in the website for "About" page are from 
   * https://static.zerochan.net/Given.full.2594618.jpg
   * https://www.amazon.com/dp/197471182X/ref=cm_sw_r_cp_api_fabc_kLKVFb9FVEV74
   * https://images.app.goo.gl/dkAhFVVsK3JtvMNz8
   * https://www.amazon.com/dp/1974711846/ref=cm_sw_r_cp_api_fabc_zNKVFbXBR27BD
   * https://www.amazon.com/dp/1974711854/ref=cm_sw_r_cp_api_fabc_fNKVFbHVHTCX9
-* The picture used in the website for "Members" page is from 
+* The pictures used in the website for "Members" page are from 
   * https://static.zerochan.net/Given.full.2594617.jpg
   * https://givenplus.tumblr.com/image/189769600760
   * https://givenplus.tumblr.com/image/189769610625
@@ -42,8 +42,20 @@ Spotify song-code images - allows viewers to find the songs on spotify, by scann
   * https://static.zerochan.net/Uenoyama.Ritsuka.full.2819689.jpg
   * https://static.zerochan.net/Nakayama.Haruki.full.2819694.jpg
   * https://static.zerochan.net/Kaji.Akihiko.full.2819692.jpg
-* The picture used in the website for "Songs" page is from 
+* The pictures used in the website for "Songs" page are from 
   * https://littlegirlyblogger.wordpress.com/2019/10/02/anime-review-given/amp/
+  * https://open.spotify.com/track/0bgujdpFkvd6vmQpqmT2pz?si=Qu27xJQNTW2hKw2n2SxUKg
+  * https://open.spotify.com/track/6tZs6KEpYlisADcZztvXyV?si=_N8CBy2tS32XiInVuG_7Pg
+  * https://open.spotify.com/track/1hn73usyesHcwRdg6iTS38?si=B6bZxfkzRdaPOa8z5HkmWA
+  * https://open.spotify.com/track/12GTBy9hDysvblcr2XC5wq?si=w3f6vyDeT0axxmA9qOnQxA
+  * https://open.spotify.com/track/0Qjpe6YNOHN1snJWV60J1N?si=YwvoaZqfQSGSpAvrOF_WtA
+## Audios & Video
+* The audios and video used are from Youtube.
+  * https://youtu.be/YND9-kErbQc
+  * https://youtu.be/9HEbQFjSqbQ
+  * https://youtu.be/9HEbQFjSqbQ
+  * https://youtu.be/cn3Ao7lprkQ
+  * https://youtu.be/q-yCRWGd89M
 ## Acknowledgements 
   * I received inspiration for this project from [Maroon 5's website](https://www.maroon5.com/home) and [One Republic's website](https://onerepublic.com/)
   * The links to the websites of "Instagram", "Twitter", "Facebook", and "Google" are not my account but fan accounts, except for the Twitter account, it is the actual account for the "Given" anime.
