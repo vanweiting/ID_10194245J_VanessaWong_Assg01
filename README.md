@@ -11,10 +11,10 @@ I wanted to create and aesthetic website that does not have too many colours or 
 I looked at other bands', Maroon 5 and One Republic, websites, for inspiration, to see what bands' websites generally look like. For example, what tabs they have in their website and their photos and videos.
 
 # Features
-A subscribe button - allows viewers to be updated on future news about the band, by typing and submitting their email
-A video - allows viewers to check out the band's performance, by clicking on the video
-Audios - allows viewers to listen to the band's songs, by clicking the play button
-Spotify song-code images - allows viewers to find the songs on spotify, by scanning the code with their spotify app.
+* A subscribe button - allows viewers to be updated on future news about the band, by typing and submitting their email
+* A video - allows viewers to check out the band's performance, by clicking on the video
+* Audios - allows viewers to listen to the band's songs, by clicking the play button
+* Spotify song-code images - allows viewers to find the songs on spotify, by scanning the code with their spotify app.
 
 # Technologies Used
 * [Dreamweaver](https://www.adobe.com/sea/products/dreamweaver.html?sdid=YXPZG54P&mv=search&ef_id=EAIaIQobChMIp-ihtNGd7QIVyn8rCh2hTgUcEAAYASAAEgIvY_D_BwE:G:s&s_kwcid=AL!3085!3!473940075243!e!!g!!dreamweaver&gclid=EAIaIQobChMIp-ihtNGd7QIVyn8rCh2hTgUcEAAYASAAEgIvY_D_BwE)
