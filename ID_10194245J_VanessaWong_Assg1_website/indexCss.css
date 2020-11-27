@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color: #7E7E7E;
+	margin: 0;
+}
+p {
+	color: white;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-size: 20px;
+}
+hr {
+	height: 2px;
+	border-width: 0;
+	color: white;
+	backgorunf-color: white;
+}
