@@ -58,4 +58,4 @@ Spotify song-code images - allows viewers to find the songs on spotify, by scann
   * https://youtu.be/q-yCRWGd89M
 ## Acknowledgements 
   * I received inspiration for this project from [Maroon 5's website](https://www.maroon5.com/home) and [One Republic's website](https://onerepublic.com/)
-  * The links to the websites of "Instagram", "Twitter", "Facebook", and "Google" are not my account but fan accounts, except for the Twitter account, it is the actual account for the "Given" anime.
+  * The links to the websites of "Instagram", "Twitter", "Facebook", and "Google" are not my accounts or made by me, but fan accounts, except for the Twitter account, it is the actual account for the "Given" anime.
